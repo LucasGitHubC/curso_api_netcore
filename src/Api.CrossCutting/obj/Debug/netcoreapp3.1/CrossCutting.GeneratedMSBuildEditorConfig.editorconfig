@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = CrossCutting
+build_property.ProjectDir = c:\curso_api_netcore\src\Api.CrossCutting\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

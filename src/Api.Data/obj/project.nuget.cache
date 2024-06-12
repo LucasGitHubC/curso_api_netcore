@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hwFLW+qKu5SzwjM5cd0MDUBx/hCB+9SOyyTi/m5rDMNfG4q0N7gzOF2dA62vASyrYpSaKEMJ1aD9V7yYXzf7UQ==",
+  "dgSpecHash": "RKW7mljZ1oNKY7IYTvdyuT0maSe2w3o0M9trBGsTonY3CzL8JBYPoV0HJjs7m6bGYdgiytkjFeSzTDJiiZ2liw==",
   "success": true,
   "projectFilePath": "C:\\curso_api_netcore\\src\\Api.Data\\Data.csproj",
   "expectedPackageFiles": [
@@ -102,7 +102,8 @@
     "C:\\Users\\Admin\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }

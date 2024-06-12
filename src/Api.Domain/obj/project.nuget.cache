@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ULx7WtmUmCzZ++QZnwfs00cMcWvV9Vwe3N/NZfoyqg3o/1hOkWVGCdzQ9raiT/MY1DqRIWK9gBgZPON9npIAkA==",
+  "dgSpecHash": "UG+mMahbXgJZlWGOwbdZmE1w2Yt1g5jOaHh+AqUhHZO/fRTHKFWFgM9cZ7WSLPNFDN60jr0rREF9IJOX3FJHuA==",
   "success": true,
   "projectFilePath": "C:\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }

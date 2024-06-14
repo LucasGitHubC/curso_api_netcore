@@ -1,19 +1,11 @@
 using System;
 using Api.CrossCutting.DependencyInjection;
-<<<<<<< HEAD
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-=======
-using AutoMapper.Configuration;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
->>>>>>> 8f79f193e212f2763914a31c653c1e2e321a0fa0
 
 
 namespace application

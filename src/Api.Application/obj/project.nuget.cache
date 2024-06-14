@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "kdgwwJQYhJ4D26sUDIbU7x8kodcdPOAoUguAm3GfA7e9Aam5vPyYTDDPs+AARkzWSzWekIyNC4wQBQxbzlJ1HQ==",
+  "dgSpecHash": "FhIUtSEBPQGbImjtPisEYX+tl8TA79JHWh9MdimR7pgUSCqFMCJO++/njGc9XX9QZLXt5S5Uaa0KQzIhs9QhRg==",
   "success": true,
   "projectFilePath": "C:\\curso_api_netcore\\src\\Api.Application\\application.csproj",
   "expectedPackageFiles": [
@@ -20,8 +20,8 @@
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.32\\microsoft.extensions.configuration.3.1.32.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.32\\microsoft.extensions.configuration.abstractions.3.1.32.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.32\\microsoft.extensions.configuration.binder.3.1.32.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.32\\microsoft.extensions.dependencyinjection.3.1.32.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.32\\microsoft.extensions.dependencyinjection.abstractions.3.1.32.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.logging\\3.1.32\\microsoft.extensions.logging.3.1.32.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.32\\microsoft.extensions.logging.abstractions.3.1.32.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.options\\3.1.32\\microsoft.extensions.options.3.1.32.nupkg.sha512",

@@ -5,7 +5,7 @@ using Api.Domain.Entities;
 using Api.Domain.Interfaces.Services.User;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Api.Application.Controllers
+namespace Application.Controllers
 {
     //http://localhost:5000/api/users
     [Route("api/[controller]")]

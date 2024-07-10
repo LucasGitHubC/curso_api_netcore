@@ -31,10 +31,14 @@ C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\publish\Microso
 C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\publish\Microsoft.IdentityModel.Protocols.dll
 C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\publish\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\publish\Microsoft.IdentityModel.Tokens.dll
+C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\publish\Microsoft.OpenApi.dll
 C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\publish\MySqlConnector.dll
 C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\publish\Newtonsoft.Json.dll
 C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\publish\Pomelo.EntityFrameworkCore.MySql.dll
 C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\publish\Pomelo.JsonObject.dll
+C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\publish\System.Collections.Immutable.dll
 C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\publish\System.Configuration.ConfigurationManager.dll
 C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\publish\System.Diagnostics.DiagnosticSource.dll

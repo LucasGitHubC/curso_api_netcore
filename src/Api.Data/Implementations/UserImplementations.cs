@@ -8,8 +8,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Api.Data.Implementations
 {
-    public class UserImplementations : BaseRepository<UserEntity>, IuserRepository
+    public class UserImplementations : BaseRepository<UserEntity>, IUserRepository
     {
+        //userimplementation criado para implementação do LoginUser, utilizando um firstordefault
         private DbSet<UserEntity> _dataset;
 
         public UserImplementations(MyContext context) : base(context)

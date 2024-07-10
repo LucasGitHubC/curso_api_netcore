@@ -1,3 +1,8 @@
 C:\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp3.1\publish\Domain.dll
 C:\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp3.1\publish\Domain.deps.json
 C:\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp3.1\publish\Domain.pdb
+C:\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp3.1\publish\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp3.1\publish\Microsoft.IdentityModel.Logging.dll
+C:\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp3.1\publish\Microsoft.IdentityModel.Tokens.dll
+C:\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp3.1\publish\Newtonsoft.Json.dll
+C:\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp3.1\publish\System.IdentityModel.Tokens.Jwt.dll

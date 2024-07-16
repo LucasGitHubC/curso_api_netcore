@@ -7,6 +7,7 @@ C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\publish\applica
 C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\publish\application.pdb
 C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\publish\AutoMapper.dll
 C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\publish\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\publish\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\publish\Microsoft.Bcl.AsyncInterfaces.dll
 C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\publish\Microsoft.Bcl.HashCode.dll
 C:\curso_api_netcore\src\Api.Application\bin\Debug\netcoreapp3.1\publish\Microsoft.Data.SqlClient.dll
